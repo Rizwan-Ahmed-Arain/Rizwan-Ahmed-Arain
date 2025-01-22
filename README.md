@@ -47,7 +47,7 @@
   <a href="https://github.com/Rizwan-Ahmed-Arain">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://linkedin.com/in/YourProfile">
+  <a href="https://www.linkedin.com/in/rizwan-ahmed-5a296031a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
