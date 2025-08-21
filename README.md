@@ -2,7 +2,7 @@
 
 🌟 **About Me:**
 - 🎓 Passionate Programmer from Karachi, Pakistan 🇵🇰.
-- 🤖 Currently learning **Agentic AI** through **PIAIC**.
+- 🤖 Currently learning **Agentic AI**.
 - 🎨 Skilled Graphic Designer with a flair for creation and experimentation.
 - 🚀 Always curious and ready to grow in both my personal and professional journey.
 
